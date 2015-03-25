@@ -1,4 +1,4 @@
-language: shell
+language: bash
 
 sudo: required
 
@@ -7,4 +7,4 @@ install:
   - sudo apt-get install -qq nodejs ocaml php5
 
 script:
-  - chmod +x ./test.sh && ./test.sh
+  - bash test.sh

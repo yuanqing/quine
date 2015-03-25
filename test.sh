@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 exit_code=0
 test_script="./test.sh"
 for dir in *; do
