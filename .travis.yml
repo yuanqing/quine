@@ -5,6 +5,7 @@ sudo: required
 install:
   - sudo apt-get update -qq
   - sudo apt-get install -qq nodejs ocaml php5
+  - npm i -g coffee-script
 
 script:
   - bash test.sh
