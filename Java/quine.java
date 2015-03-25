@@ -1,1 +1,1 @@
-class quine{public static void main(String[] a){String x="class quine{public static void main(String[] a){String x=%c%s%c;System.out.printf(x,34,x,34);}}";System.out.printf(x,34,x,34);}}
+class quine{public static void main(String[]a){String x="class quine{public static void main(String[]a){String x=%c%s%c;System.out.printf(x,34,x,34);}}";System.out.printf(x,34,x,34);}}
