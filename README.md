@@ -4,7 +4,7 @@
 
 ## What?
 
-A [*quine*](http://en.wikipedia.org/wiki/Quine_%28computing%29) is a program that, when compiled and run, produces its own source code as its output.
+A [*quine*](http://en.wikipedia.org/wiki/Quine_%28computing%29) is a program that, when run, produces its own source code as its output.
 
 It sounds trivial until you realise that *you need to print the code that actually does the printing*. (Note that simply reading the source file itself and printing it is considered cheating. Also, the quine program should not need to accept any input.)
 
