@@ -2,11 +2,11 @@
 
 > Programs that write themselves.
 
-## What?!
+## What!?
 
 A [*quine*](http://en.wikipedia.org/wiki/Quine_%28computing%29) is a program that produces its own source code as its output.
 
-For example, the following OCaml program is a quine:
+For example, the following [OCaml](https://ocaml.org) program is a quine:
 
 ```ocaml
 let q=char_of_int 34 and x="let q=char_of_int 34 and x=%c%s%cin Printf.printf%c%s%cq x q q x q"in Printf.printf"let q=char_of_int 34 and x=%c%s%cin Printf.printf%c%s%cq x q q x q"q x q q x q
@@ -16,11 +16,13 @@ I&rsquo;ve written quines in the handful of languages that I have moderate famil
 
 ## Test
 
-Run the `test.sh` shell script in the root:
+Run the `test.sh` shell script:
 
 ```
-$ chmod +x test.sh && ./test.sh
+$ bash test.sh
 ```
+
+You will first need to install the dependencies for each language, though.
 
 ## Changelog
 
