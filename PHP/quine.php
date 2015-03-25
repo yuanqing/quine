@@ -1,1 +1,1 @@
-<?php $q=chr(39);$x='<?php $q=chr(39);$x=%s%s%s;printf($x,$q,$x,$q);';printf($x,$q,$x,$q);
+<?php $x='<?php $x=%s%s%s;printf($x,chr(39),$x,chr(39));';printf($x,chr(39),$x,chr(39));
