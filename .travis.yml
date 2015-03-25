@@ -1,0 +1,4 @@
+language: shell
+
+script:
+  - chmod ./test.sh && ./test.sh

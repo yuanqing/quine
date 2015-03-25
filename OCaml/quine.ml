@@ -1,0 +1,1 @@
+let q=char_of_int 34 and x="let q=char_of_int 34 and x=%c%s%cin Printf.printf%c%s%cq x q q x q"in Printf.printf"let q=char_of_int 34 and x=%c%s%cin Printf.printf%c%s%cq x q q x q"q x q q x q
