@@ -1,4 +1,4 @@
-# quine [![Version](https://img.shields.io/badge/version-v0.1.0-orange.svg?style=flat)](https://github.com/yuanqing/quine/releases) [![Build Status](https://img.shields.io/travis/yuanqing/quine.svg?branch=master&style=flat)](https://travis-ci.org/yuanqing/quine)
+# quine [![Version](https://img.shields.io/badge/version-v0.2.0-orange.svg?style=flat)](https://github.com/yuanqing/quine/releases) [![Build Status](https://img.shields.io/travis/yuanqing/quine.svg?branch=master&style=flat)](https://travis-ci.org/yuanqing/quine)
 
 > Programs that write themselves.
 
